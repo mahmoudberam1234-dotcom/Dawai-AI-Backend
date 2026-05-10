@@ -1,5 +1,5 @@
 """
-Dawai Master V10 - RapidOCR + RapidFuzz Pipeline
+Dawai Master - RapidOCR + RapidFuzz Pipeline
 =================================================
 Full pipeline: Image -> RapidOCR (EN+AR parallel) -> Top Words by BBox -> rapidfuzz Matcher -> Result
 """
